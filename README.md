@@ -38,7 +38,7 @@
 Using packer
 
 ```lua
-use 'yavko/minimap.lua'
+use 'yavko/minimap.nvim'
 ```
 
 
